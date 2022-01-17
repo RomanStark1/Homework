@@ -1,1 +1,7 @@
-new bug report
+ID
+Название
+Шаги воспроизведения
+ОР
+ФР
+Приоритет
+Attachnew bug report
