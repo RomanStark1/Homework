@@ -4,4 +4,4 @@ ID
 ОР
 ФР
 Приоритет
-Attachnew bug report
+Attach
