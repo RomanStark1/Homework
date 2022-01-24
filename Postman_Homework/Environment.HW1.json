@@ -1,0 +1,14 @@
+{
+	"id": "8554b10f-39cf-4d3c-9775-795def99bed5",
+	"name": "New Environment",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "http://162.55.220.72:5005",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-01-24T16:23:42.614Z",
+	"_postman_exported_using": "Postman/8.11.1"
+}
